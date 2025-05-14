@@ -20,7 +20,8 @@ A React-based dashboard for managing ship maintenance operations.
 
 ## Deployment
 
-The application can be deployed to Vercel, Netlify, or GitHub Pages.
+The application can be deployed to Vercel.
+https://ship-maintenance-dashboard-ten.vercel.app/
 
 ## Technical Decisions
 
